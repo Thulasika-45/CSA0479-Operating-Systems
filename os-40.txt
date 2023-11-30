@@ -1,0 +1,4 @@
+chmod u+rwx file.txt  # Give the owner read, write, and execute permissions
+chmod go+r file.txt   # Give group and others read permissions
+chmod +x script.sh    # Add execute permission to everyone
+ls -l file.txt    #Viewing Permissions
